@@ -21,9 +21,6 @@ rsync -avP --checksum --exclude '.*' ~/ /tmp/backup
 
 ![Результат](/img/1.png)  
 
-Результат запросов
-
-![Запросы](/img/1_2.png) 
 
 ### Задание 2   
 
